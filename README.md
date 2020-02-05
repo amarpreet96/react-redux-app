@@ -1,4 +1,4 @@
-React-Redux Application
+Rest based React-Redux Application
 
 ## Available Scripts
 
